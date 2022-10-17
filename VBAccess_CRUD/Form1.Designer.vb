@@ -163,7 +163,7 @@ Partial Class Form1
         Me.InsertButton.Name = "InsertButton"
         Me.InsertButton.Size = New System.Drawing.Size(157, 101)
         Me.InsertButton.TabIndex = 8
-        Me.InsertButton.Text = "INSERT ()"
+        Me.InsertButton.Text = "INSERT"
         Me.InsertButton.UseVisualStyleBackColor = True
         '
         'DataGridView1
