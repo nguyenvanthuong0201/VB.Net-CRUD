@@ -1,0 +1,12 @@
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\bin\Debug\VBAccess_CRUD.exe.config
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\bin\Debug\VBAccess_CRUD.exe
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\bin\Debug\VBAccess_CRUD.pdb
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\bin\Debug\VBAccess_CRUD.xml
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.vbproj.AssemblyReference.cache
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.Form1.resources
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.Resources.resources
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.vbproj.GenerateResource.cache
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.exe
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.xml
+C:\Users\hpb\source\repos\VBAccess_CRUD\VBAccess_CRUD\obj\Debug\VBAccess_CRUD.pdb
